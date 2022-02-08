@@ -12,7 +12,7 @@ require (
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
-	github.com/tendermint/starport v0.19.4-0.20220204113158-9ccc45b20531
+	github.com/tendermint/starport v0.19.4-0.20220208121608-c70445e756e0
 	github.com/tendermint/tendermint v0.34.14
 	github.com/tendermint/tm-db v0.6.4
 	google.golang.org/genproto v0.0.0-20220118154757-00ab72f36ad5
